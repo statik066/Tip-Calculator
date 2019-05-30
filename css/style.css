@@ -2,10 +2,6 @@ body {
   font-family: Roboto;
   background: #459EEC;
   
-  background: -webkit-linear-gradient(to left, #459EEC, #1F1C18);
- 
-  background: linear-gradient(to left, #459EEC, #1F1C18);
-  
 }
 
 #container {
