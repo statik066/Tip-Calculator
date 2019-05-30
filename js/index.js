@@ -1,4 +1,4 @@
-//Calculate Tip
+
 function calculateTip() {
   var billAmt = document.getElementById("billamt").value;
   var serviceQual = document.getElementById("serviceQual").value;
@@ -15,7 +15,7 @@ function calculateTip() {
     document.getElementById("each").style.display = "none";
   } else {
     document.getElementById("each").style.display = "block";
-  }
+  }Tip
 
   
   var total = (billAmt * serviceQual) / numOfPeople;
